@@ -1,4 +1,6 @@
-# Goals
+## Goals
+
+I set out to test the following:
 
 1. Implementing a Meteor.publish on something other than a MongoDB and making it reactive.
 2. Building a standalone browser app that is decoupled from Meteor.
