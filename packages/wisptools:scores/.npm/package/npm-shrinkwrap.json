@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "event-emitter": {
+      "version": "0.3.3",
+      "dependencies": {
+        "es5-ext": {
+          "version": "0.10.6",
+          "dependencies": {
+            "es6-iterator": {
+              "version": "0.1.3"
+            },
+            "es6-symbol": {
+              "version": "2.0.1"
+            }
+          }
+        },
+        "d": {
+          "version": "0.1.1"
+        }
+      }
+    }
+  }
+}
